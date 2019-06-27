@@ -1,0 +1,7 @@
+{
+  "name": "truffle-vyper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Onuwa Nnachi Isaac <matrix4u2002@gmail.com>",
+  "license": "MIT"
+}
