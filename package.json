@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Onuwa Nnachi Isaac <matrix4u2002@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "bignumber.js": "^9.0.0",
+    "bn-chai": "^1.0.1",
+    "chai": "^4.2.0"
+  }
 }

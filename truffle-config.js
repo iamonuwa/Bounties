@@ -25,4 +25,11 @@
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
 module.exports = {
-}
+  networks: {
+    development: {
+      network_id: "*",
+      host: "localhost",
+      port: 8545
+    }
+  }
+};
